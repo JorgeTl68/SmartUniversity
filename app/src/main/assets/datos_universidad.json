@@ -1,0 +1,1179 @@
+{
+  "clases": [
+    {
+      "grupo": "9° A IDGS",
+      "dia": 1,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Mtra. Laura Méndez Ríos",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 1,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Inglés IX",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-105",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 1,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Gestión del Proceso de Desarrollo de Software",
+      "docente": "Ing. Carlos Herrera Soto",
+      "aula": "A-201",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 1,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Extracción de Conocimiento en Bases de Datos",
+      "docente": "Dr. Ricardo Salinas Paz",
+      "aula": "Lab. Cómputo 2",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 1,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Seguridad Informática",
+      "docente": "Mtro. Andrés Galindo Cruz",
+      "aula": "A-203",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 2,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Inglés IX",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-105",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 2,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Gestión del Proceso de Desarrollo de Software",
+      "docente": "Ing. Carlos Herrera Soto",
+      "aula": "A-201",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 2,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Extracción de Conocimiento en Bases de Datos",
+      "docente": "Dr. Ricardo Salinas Paz",
+      "aula": "Lab. Cómputo 2",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 2,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Seguridad Informática",
+      "docente": "Mtro. Andrés Galindo Cruz",
+      "aula": "A-203",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 2,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Mtra. Laura Méndez Ríos",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 3,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Administración de Proyectos de TI",
+      "docente": "Mtra. Sofía Ramírez Lugo",
+      "aula": "A-201",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 3,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Gestión del Proceso de Desarrollo de Software",
+      "docente": "Ing. Carlos Herrera Soto",
+      "aula": "A-201",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 3,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Extracción de Conocimiento en Bases de Datos",
+      "docente": "Dr. Ricardo Salinas Paz",
+      "aula": "Lab. Cómputo 2",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 3,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Mtra. Laura Méndez Ríos",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 3,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Inglés IX",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-105",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 4,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Administración de Proyectos de TI",
+      "docente": "Mtra. Sofía Ramírez Lugo",
+      "aula": "A-201",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 4,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Gestión del Proceso de Desarrollo de Software",
+      "docente": "Ing. Carlos Herrera Soto",
+      "aula": "A-201",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 4,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Mtra. Laura Méndez Ríos",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 4,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Inglés IX",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-105",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 4,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Seguridad Informática",
+      "docente": "Mtro. Andrés Galindo Cruz",
+      "aula": "A-203",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 5,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Administración de Proyectos de TI",
+      "docente": "Mtra. Sofía Ramírez Lugo",
+      "aula": "A-201",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 5,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Mtra. Laura Méndez Ríos",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 5,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Inglés IX",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-105",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 5,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Extracción de Conocimiento en Bases de Datos",
+      "docente": "Dr. Ricardo Salinas Paz",
+      "aula": "Lab. Cómputo 2",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "dia": 5,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Seguridad Informática",
+      "docente": "Mtro. Andrés Galindo Cruz",
+      "aula": "A-203",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 1,
+      "inicio": "14:00",
+      "fin": "15:00",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Ing. Héctor Valdés Ibarra",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 1,
+      "inicio": "15:00",
+      "fin": "16:00",
+      "materia": "Inglés IX",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-106",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 1,
+      "inicio": "16:00",
+      "fin": "17:00",
+      "materia": "Gestión del Proceso de Desarrollo de Software",
+      "docente": "Ing. Carlos Herrera Soto",
+      "aula": "A-202",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 1,
+      "inicio": "17:30",
+      "fin": "18:30",
+      "materia": "Extracción de Conocimiento en Bases de Datos",
+      "docente": "Dr. Ricardo Salinas Paz",
+      "aula": "Lab. Cómputo 2",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 1,
+      "inicio": "18:30",
+      "fin": "19:30",
+      "materia": "Seguridad Informática",
+      "docente": "Mtra. Elena Castro Fuentes",
+      "aula": "A-203",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 2,
+      "inicio": "14:00",
+      "fin": "15:00",
+      "materia": "Inglés IX",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-106",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 2,
+      "inicio": "15:00",
+      "fin": "16:00",
+      "materia": "Gestión del Proceso de Desarrollo de Software",
+      "docente": "Ing. Carlos Herrera Soto",
+      "aula": "A-202",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 2,
+      "inicio": "16:00",
+      "fin": "17:00",
+      "materia": "Extracción de Conocimiento en Bases de Datos",
+      "docente": "Dr. Ricardo Salinas Paz",
+      "aula": "Lab. Cómputo 2",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 2,
+      "inicio": "17:30",
+      "fin": "18:30",
+      "materia": "Seguridad Informática",
+      "docente": "Mtra. Elena Castro Fuentes",
+      "aula": "A-203",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 2,
+      "inicio": "18:30",
+      "fin": "19:30",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Ing. Héctor Valdés Ibarra",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 3,
+      "inicio": "14:00",
+      "fin": "15:00",
+      "materia": "Administración de Proyectos de TI",
+      "docente": "Mtra. Sofía Ramírez Lugo",
+      "aula": "A-202",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 3,
+      "inicio": "15:00",
+      "fin": "16:00",
+      "materia": "Gestión del Proceso de Desarrollo de Software",
+      "docente": "Ing. Carlos Herrera Soto",
+      "aula": "A-202",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 3,
+      "inicio": "16:00",
+      "fin": "17:00",
+      "materia": "Extracción de Conocimiento en Bases de Datos",
+      "docente": "Dr. Ricardo Salinas Paz",
+      "aula": "Lab. Cómputo 2",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 3,
+      "inicio": "17:30",
+      "fin": "18:30",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Ing. Héctor Valdés Ibarra",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 3,
+      "inicio": "18:30",
+      "fin": "19:30",
+      "materia": "Inglés IX",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-106",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 4,
+      "inicio": "14:00",
+      "fin": "15:00",
+      "materia": "Administración de Proyectos de TI",
+      "docente": "Mtra. Sofía Ramírez Lugo",
+      "aula": "A-202",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 4,
+      "inicio": "15:00",
+      "fin": "16:00",
+      "materia": "Gestión del Proceso de Desarrollo de Software",
+      "docente": "Ing. Carlos Herrera Soto",
+      "aula": "A-202",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 4,
+      "inicio": "16:00",
+      "fin": "17:00",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Ing. Héctor Valdés Ibarra",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 4,
+      "inicio": "17:30",
+      "fin": "18:30",
+      "materia": "Inglés IX",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-106",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 4,
+      "inicio": "18:30",
+      "fin": "19:30",
+      "materia": "Seguridad Informática",
+      "docente": "Mtra. Elena Castro Fuentes",
+      "aula": "A-203",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 5,
+      "inicio": "14:00",
+      "fin": "15:00",
+      "materia": "Administración de Proyectos de TI",
+      "docente": "Mtra. Sofía Ramírez Lugo",
+      "aula": "A-202",
+      "edificio": "A"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 5,
+      "inicio": "15:00",
+      "fin": "16:00",
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "docente": "Ing. Héctor Valdés Ibarra",
+      "aula": "Lab. Cómputo 3",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 5,
+      "inicio": "16:00",
+      "fin": "17:00",
+      "materia": "Inglés IX",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-106",
+      "edificio": "B"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 5,
+      "inicio": "17:30",
+      "fin": "18:30",
+      "materia": "Extracción de Conocimiento en Bases de Datos",
+      "docente": "Dr. Ricardo Salinas Paz",
+      "aula": "Lab. Cómputo 2",
+      "edificio": "C"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "dia": 5,
+      "inicio": "18:30",
+      "fin": "19:30",
+      "materia": "Seguridad Informática",
+      "docente": "Mtra. Elena Castro Fuentes",
+      "aula": "A-203",
+      "edificio": "A"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 1,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Desarrollo Web Integral",
+      "docente": "Ing. Mauricio Peña Aguilar",
+      "aula": "Lab. Cómputo 1",
+      "edificio": "C"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 1,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Inglés VI",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-103",
+      "edificio": "B"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 1,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Desarrollo Móvil Integral",
+      "docente": "Mtra. Laura Méndez Ríos",
+      "aula": "Lab. Cómputo 4",
+      "edificio": "C"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 1,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Bases de Datos para Cómputo en la Nube",
+      "docente": "Ing. Roberto Lozano Díaz",
+      "aula": "A-104",
+      "edificio": "A"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 1,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Integradora II",
+      "docente": "Mtro. Andrés Galindo Cruz",
+      "aula": "A-105",
+      "edificio": "A"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 2,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Inglés VI",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-103",
+      "edificio": "B"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 2,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Desarrollo Móvil Integral",
+      "docente": "Mtra. Laura Méndez Ríos",
+      "aula": "Lab. Cómputo 4",
+      "edificio": "C"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 2,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Bases de Datos para Cómputo en la Nube",
+      "docente": "Ing. Roberto Lozano Díaz",
+      "aula": "A-104",
+      "edificio": "A"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 2,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Integradora II",
+      "docente": "Mtro. Andrés Galindo Cruz",
+      "aula": "A-105",
+      "edificio": "A"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 2,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Desarrollo Web Integral",
+      "docente": "Ing. Mauricio Peña Aguilar",
+      "aula": "Lab. Cómputo 1",
+      "edificio": "C"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 3,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Formación Sociocultural IV",
+      "docente": "Lic. Mariana Soto Elizondo",
+      "aula": "B-101",
+      "edificio": "B"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 3,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Desarrollo Móvil Integral",
+      "docente": "Mtra. Laura Méndez Ríos",
+      "aula": "Lab. Cómputo 4",
+      "edificio": "C"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 3,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Bases de Datos para Cómputo en la Nube",
+      "docente": "Ing. Roberto Lozano Díaz",
+      "aula": "A-104",
+      "edificio": "A"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 3,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Desarrollo Web Integral",
+      "docente": "Ing. Mauricio Peña Aguilar",
+      "aula": "Lab. Cómputo 1",
+      "edificio": "C"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 3,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Inglés VI",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-103",
+      "edificio": "B"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 4,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Formación Sociocultural IV",
+      "docente": "Lic. Mariana Soto Elizondo",
+      "aula": "B-101",
+      "edificio": "B"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 4,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Desarrollo Móvil Integral",
+      "docente": "Mtra. Laura Méndez Ríos",
+      "aula": "Lab. Cómputo 4",
+      "edificio": "C"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 4,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Desarrollo Web Integral",
+      "docente": "Ing. Mauricio Peña Aguilar",
+      "aula": "Lab. Cómputo 1",
+      "edificio": "C"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 4,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Inglés VI",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-103",
+      "edificio": "B"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 4,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Integradora II",
+      "docente": "Mtro. Andrés Galindo Cruz",
+      "aula": "A-105",
+      "edificio": "A"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 5,
+      "inicio": "07:00",
+      "fin": "08:00",
+      "materia": "Formación Sociocultural IV",
+      "docente": "Lic. Mariana Soto Elizondo",
+      "aula": "B-101",
+      "edificio": "B"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 5,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Desarrollo Web Integral",
+      "docente": "Ing. Mauricio Peña Aguilar",
+      "aula": "Lab. Cómputo 1",
+      "edificio": "C"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 5,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Inglés VI",
+      "docente": "Lic. Daniela Ortiz Mora",
+      "aula": "B-103",
+      "edificio": "B"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 5,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Bases de Datos para Cómputo en la Nube",
+      "docente": "Ing. Roberto Lozano Díaz",
+      "aula": "A-104",
+      "edificio": "A"
+    },
+    {
+      "grupo": "6° A DSM",
+      "dia": 5,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Integradora II",
+      "docente": "Mtro. Andrés Galindo Cruz",
+      "aula": "A-105",
+      "edificio": "A"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 1,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Física",
+      "docente": "Ing. Fernando Rangel Ochoa",
+      "aula": "Lab. Física",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 1,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Inglés III",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-104",
+      "edificio": "B"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 1,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Cálculo Diferencial",
+      "docente": "Mtro. Raúl Medina Cárdenas",
+      "aula": "D-201",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 1,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Electricidad y Magnetismo",
+      "docente": "Ing. Patricia Leal Robles",
+      "aula": "Lab. Electrónica",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 1,
+      "inicio": "12:30",
+      "fin": "13:30",
+      "materia": "Química Básica",
+      "docente": "Dra. Gabriela Ruiz Montes",
+      "aula": "Lab. Química",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 2,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Inglés III",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-104",
+      "edificio": "B"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 2,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Cálculo Diferencial",
+      "docente": "Mtro. Raúl Medina Cárdenas",
+      "aula": "D-201",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 2,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Electricidad y Magnetismo",
+      "docente": "Ing. Patricia Leal Robles",
+      "aula": "Lab. Electrónica",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 2,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Química Básica",
+      "docente": "Dra. Gabriela Ruiz Montes",
+      "aula": "Lab. Química",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 2,
+      "inicio": "12:30",
+      "fin": "13:30",
+      "materia": "Física",
+      "docente": "Ing. Fernando Rangel Ochoa",
+      "aula": "Lab. Física",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 3,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Dibujo Industrial",
+      "docente": "Ing. Óscar Navarro Silva",
+      "aula": "D-102",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 3,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Cálculo Diferencial",
+      "docente": "Mtro. Raúl Medina Cárdenas",
+      "aula": "D-201",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 3,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Electricidad y Magnetismo",
+      "docente": "Ing. Patricia Leal Robles",
+      "aula": "Lab. Electrónica",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 3,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Física",
+      "docente": "Ing. Fernando Rangel Ochoa",
+      "aula": "Lab. Física",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 3,
+      "inicio": "12:30",
+      "fin": "13:30",
+      "materia": "Inglés III",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-104",
+      "edificio": "B"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 4,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Dibujo Industrial",
+      "docente": "Ing. Óscar Navarro Silva",
+      "aula": "D-102",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 4,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Cálculo Diferencial",
+      "docente": "Mtro. Raúl Medina Cárdenas",
+      "aula": "D-201",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 4,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Física",
+      "docente": "Ing. Fernando Rangel Ochoa",
+      "aula": "Lab. Física",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 4,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Inglés III",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-104",
+      "edificio": "B"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 4,
+      "inicio": "12:30",
+      "fin": "13:30",
+      "materia": "Química Básica",
+      "docente": "Dra. Gabriela Ruiz Montes",
+      "aula": "Lab. Química",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 5,
+      "inicio": "08:00",
+      "fin": "09:00",
+      "materia": "Dibujo Industrial",
+      "docente": "Ing. Óscar Navarro Silva",
+      "aula": "D-102",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 5,
+      "inicio": "09:00",
+      "fin": "10:00",
+      "materia": "Física",
+      "docente": "Ing. Fernando Rangel Ochoa",
+      "aula": "Lab. Física",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 5,
+      "inicio": "10:30",
+      "fin": "11:30",
+      "materia": "Inglés III",
+      "docente": "Lic. Paola Garza Treviño",
+      "aula": "B-104",
+      "edificio": "B"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 5,
+      "inicio": "11:30",
+      "fin": "12:30",
+      "materia": "Electricidad y Magnetismo",
+      "docente": "Ing. Patricia Leal Robles",
+      "aula": "Lab. Electrónica",
+      "edificio": "D"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "dia": 5,
+      "inicio": "12:30",
+      "fin": "13:30",
+      "materia": "Química Básica",
+      "docente": "Dra. Gabriela Ruiz Montes",
+      "aula": "Lab. Química",
+      "edificio": "D"
+    }
+  ],
+  "avisos": [
+    {
+      "titulo": "Mantenimiento eléctrico en el edificio B",
+      "mensaje": "Hoy se revisa la instalación eléctrica del edificio B. Los grupos con clase en ese edificio cambian de salón; consulta la sección Cambios de aula antes de tu siguiente clase.",
+      "prioridad": "URGENTE",
+      "area": "Dirección Académica",
+      "publicadoHaceDias": 0,
+      "diasVigencia": 0
+    },
+    {
+      "titulo": "Simulacro de evacuación a las 11:00",
+      "mensaje": "Al sonar la alarma, deja tus cosas, sigue las rutas de evacuación señaladas y reúnete en la explanada principal con tu grupo y tu docente.",
+      "prioridad": "URGENTE",
+      "area": "Protección Civil",
+      "publicadoHaceDias": 0,
+      "diasVigencia": 0
+    },
+    {
+      "titulo": "Reinscripción al siguiente cuatrimestre",
+      "mensaje": "La reinscripción abre la próxima semana. Revisa en el portal que no tengas adeudos y lleva tu comprobante de pago a Servicios Escolares.",
+      "prioridad": "IMPORTANTE",
+      "area": "Servicios Escolares",
+      "publicadoHaceDias": 1,
+      "diasVigencia": 10
+    },
+    {
+      "titulo": "Calificaciones de la Unidad 3",
+      "mensaje": "Los docentes publicarán las calificaciones de la Unidad 3 este viernes. Si tienes dudas, acude con tu tutor de grupo antes del cierre de actas.",
+      "prioridad": "IMPORTANTE",
+      "area": "Dirección de Carrera",
+      "publicadoHaceDias": 2,
+      "diasVigencia": 6
+    },
+    {
+      "titulo": "Convocatoria de becas de transporte",
+      "mensaje": "Ya está abierta la convocatoria de becas de transporte. Llena la solicitud en línea y entrega tu comprobante de domicilio en Servicios Estudiantiles.",
+      "prioridad": "IMPORTANTE",
+      "area": "Servicios Estudiantiles",
+      "publicadoHaceDias": 3,
+      "diasVigencia": 12
+    },
+    {
+      "titulo": "Horario extendido de la biblioteca",
+      "mensaje": "Durante la semana de exámenes la biblioteca abrirá de 7:00 a 20:00 y habrá cubículos de estudio disponibles por reservación.",
+      "prioridad": "GENERAL",
+      "area": "Biblioteca",
+      "publicadoHaceDias": 1,
+      "diasVigencia": 14
+    },
+    {
+      "titulo": "Nuevo menú saludable en la cafetería",
+      "mensaje": "La cafetería agregó opciones de comida saludable a precio de estudiante. Consulta el menú del día en el mostrador.",
+      "prioridad": "GENERAL",
+      "area": "Servicios Generales",
+      "publicadoHaceDias": 4,
+      "diasVigencia": 20
+    },
+    {
+      "titulo": "Credencial digital disponible",
+      "mensaje": "Descarga tu credencial digital desde el portal de alumnos; sirve para entrar a la biblioteca y al gimnasio.",
+      "prioridad": "GENERAL",
+      "area": "Servicios Escolares",
+      "publicadoHaceDias": 5,
+      "diasVigencia": 30
+    }
+  ],
+  "eventos": [
+    {
+      "titulo": "Taller de Kotlin para Android TV",
+      "descripcion": "Taller práctico para crear una aplicación de televisión con Jetpack Compose. Trae tu laptop con Android Studio instalado.",
+      "enDias": 0,
+      "inicio": "13:00",
+      "fin": "15:00",
+      "lugar": "Lab. Cómputo 3",
+      "categoria": "Taller",
+      "organizador": "Carrera de IDGS"
+    },
+    {
+      "titulo": "Feria de Proyectos Integradores",
+      "descripcion": "Los grupos de noveno y sexto presentan sus proyectos integradores ante empresas de la región.",
+      "enDias": 1,
+      "inicio": "10:00",
+      "fin": "14:00",
+      "lugar": "Explanada principal",
+      "categoria": "Académico",
+      "organizador": "Dirección Académica"
+    },
+    {
+      "titulo": "Conferencia: Inteligencia artificial en la industria",
+      "descripcion": "Especialistas de la industria hablan de cómo se usa la inteligencia artificial en manufactura y servicios.",
+      "enDias": 2,
+      "inicio": "12:00",
+      "fin": "13:30",
+      "lugar": "Auditorio",
+      "categoria": "Conferencia",
+      "organizador": "Vinculación"
+    },
+    {
+      "titulo": "Campaña de donación de sangre",
+      "descripcion": "Acude en ayunas de 8 horas con una identificación oficial. Habrá constancia para los donantes.",
+      "enDias": 3,
+      "inicio": "08:00",
+      "fin": "12:00",
+      "lugar": "Enfermería",
+      "categoria": "Salud",
+      "organizador": "Servicios Estudiantiles"
+    },
+    {
+      "titulo": "Torneo de fútbol rápido",
+      "descripcion": "Inscribe a tu equipo de siete integrantes en el gimnasio. La final se juega el mismo día.",
+      "enDias": 4,
+      "inicio": "16:00",
+      "fin": "19:00",
+      "lugar": "Canchas deportivas",
+      "categoria": "Deportivo",
+      "organizador": "Actividades Deportivas"
+    },
+    {
+      "titulo": "Feria de empleo y estadías",
+      "descripcion": "Empresas de la región ofrecen vacantes y lugares para realizar la estadía profesional. Lleva tu currículum impreso.",
+      "enDias": 6,
+      "inicio": "09:00",
+      "fin": "13:00",
+      "lugar": "Gimnasio",
+      "categoria": "Vinculación",
+      "organizador": "Bolsa de Trabajo"
+    },
+    {
+      "titulo": "Festival cultural de fin de cuatrimestre",
+      "descripcion": "Música, danza y teatro de los talleres culturales. Entrada libre para la comunidad.",
+      "enDias": 9,
+      "inicio": "11:00",
+      "fin": "15:00",
+      "lugar": "Explanada principal",
+      "categoria": "Cultural",
+      "organizador": "Actividades Culturales"
+    }
+  ],
+  "cambiosAula": [
+    {
+      "grupo": "9° A IDGS",
+      "diaHabil": 0,
+      "materia": "Inglés IX",
+      "aulaNueva": "A-204",
+      "motivo": "Mantenimiento eléctrico en el edificio B"
+    },
+    {
+      "grupo": "6° A DSM",
+      "diaHabil": 0,
+      "materia": "Inglés VI",
+      "aulaNueva": "A-106",
+      "motivo": "Mantenimiento eléctrico en el edificio B"
+    },
+    {
+      "grupo": "9° A IDGS",
+      "diaHabil": 0,
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "aulaNueva": "Lab. Cómputo 1",
+      "motivo": "Falla del proyector del laboratorio"
+    },
+    {
+      "grupo": "3° A Mecatrónica",
+      "diaHabil": 0,
+      "materia": "Física",
+      "aulaNueva": "Lab. Electrónica",
+      "motivo": "Práctica con equipo de medición"
+    },
+    {
+      "grupo": "9° B IDGS",
+      "diaHabil": 1,
+      "materia": "Desarrollo para Dispositivos Inteligentes",
+      "aulaNueva": "Sala Audiovisual",
+      "motivo": "Presentación de proyectos integradores"
+    }
+  ]
+}
