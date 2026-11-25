@@ -68,7 +68,7 @@ fun AvisosScreen(viewModel: AvisosViewModel = viewModel(factory = AvisosViewMode
     ) {
         EncabezadoSeccion(
             titulo = "Avisos",
-            descripcion = "Comunicados vigentes de las areas de la universidad",
+            descripcion = "Comunicados vigentes de las áreas de la universidad",
         )
         Spacer(Modifier.height(14.dp))
         Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
